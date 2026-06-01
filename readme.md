@@ -12,7 +12,9 @@ uvicorn main:app --reload
 
 **Test the endpoints**
 Visit http://127.0.0.1:8000/docs
-or https://url-shortner-r6t4.onrender.com
+or https://url-shortner-r6t4.onrender.com/docs
+
+or https://url-shortner-r6t4.onrender.com/{the code generated } -> for redirect
 
 ## Endpoints
 
