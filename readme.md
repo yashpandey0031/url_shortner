@@ -12,6 +12,7 @@ uvicorn main:app --reload
 
 **Test the endpoints**
 Visit http://127.0.0.1:8000/docs
+or https://url-shortner-r6t4.onrender.com
 
 ## Endpoints
 
@@ -23,9 +24,5 @@ Visit http://127.0.0.1:8000/docs
 ## Tech Stack
 
 - FastAPI
-- PostgreSQL (Neon)
+- PostgreSQL (Neon) and render
 - SQLAlchemy
-
-## Live API
-
-https://your-render-url.onrender.com/docs
